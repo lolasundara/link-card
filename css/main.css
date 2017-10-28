@@ -28,4 +28,12 @@ p {
   margin-right: .3em;
   font-size: 1rem;
   line-height: 1.5;
+ul {
+  list-style-type: none;
+  text-align: left;
+  padding-left: .3em;
+  font-family: Georgia;
+  color: #785439;
+  font-size: .875rem;
+  font-weight: bold;
 }
