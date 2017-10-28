@@ -16,7 +16,7 @@ h2 {
   font-family: Dosis, sans-serif;
   color: #512200;
   font-weight: bolder;
-  margin-left: .2em;
+  margin-left: .3em;
   font-size: 1.5rem;
 }
 
@@ -24,8 +24,8 @@ p {
   display: inline-block;
   font-family: Georgia;
   color: #785439;
-  margin-left: .2em;
-  margin-right: .2em;
+  margin-left: .3em;
+  margin-right: .3em;
   font-size: 1rem;
   line-height: 1.5;
 }
