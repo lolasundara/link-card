@@ -20,7 +20,7 @@ h2 {
 }
 
 p {
-  display: block;
+  display: inline-block;
   font-family: Georgia;
   color: #785439;
   margin-left: .2em;
