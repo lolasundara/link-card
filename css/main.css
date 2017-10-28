@@ -32,6 +32,7 @@ p {
 }
 
 ul {
+  display: inline-block;
   list-style-type: none;
   text-align: left;
   padding-left: .3em;
@@ -39,4 +40,15 @@ ul {
   color: #785439;
   font-size: .875rem;
   font-weight: bold;
+}
+
+nav {
+  display: inline-block;
+  font-family: Dosis, sans-serif;
+  font-weight: bold;
+  color: #f0eee8;
+  padding: .5em;
+  border: 3px;
+  border-radius: 8px;
+  background-color: #785439;
 }
