@@ -16,7 +16,9 @@ h2 {
   font-family: Dosis, sans-serif;
   color: #512200;
   font-weight: bolder;
+  margin-top: .9em;
   margin-left: .3em;
+  margin-bottom: .6em;
   font-size: 1.5rem;
 }
 
@@ -26,6 +28,7 @@ p {
   color: #785439;
   margin-left: .3em;
   margin-right: .3em;
+  margin-top: 0;
   font-size: 1rem;
   line-height: 1.5;
   font-weight: bold;
