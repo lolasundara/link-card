@@ -12,3 +12,10 @@ body {
   border-width: 3px;
   border-radius: 8px;
 }
+
+p {
+  display: block;
+  font-family: Georgia;
+  color: #785439;
+  margin-left: .2em;
+}
