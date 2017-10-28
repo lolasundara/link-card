@@ -13,6 +13,14 @@ body {
   border-radius: 8px;
 }
 
+h2 {
+  display: block;
+  font-family: Dosis, sans-serif;
+  color: #512200;
+  font-weight: bolder;
+  margin-left: .2em;
+}
+
 p {
   display: block;
   font-family: Georgia;
