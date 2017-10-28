@@ -17,6 +17,7 @@ h2 {
   color: #512200;
   font-weight: bolder;
   margin-left: .2em;
+  font-size: 1.5rem;
 }
 
 p {
@@ -24,4 +25,7 @@ p {
   font-family: Georgia;
   color: #785439;
   margin-left: .2em;
+  margin-right: .2em;
+  font-size: 1rem;
+  line-height: 1.5;
 }
