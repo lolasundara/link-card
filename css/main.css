@@ -9,21 +9,24 @@ html {
 }
 
 body {
-  display: block;
-  background-color: #f0eee8;
-  border-radius: 8px;
-  border: 3px solid ##9a816d;
+  background-color: #dcd4cd;
+  margin: 0;
+  border: 3px solid #9a816d;
+  border-radius: 6px;
+  padding: .75rem 1rem;
 }
 
-h2 {
-  display: block;
-  font-family: Dosis, sans-serif;
+.link-card {
+  background-color: #dcd4cd;
+  display: inline;
+  text-decoration: none;
   color: #512200;
-  font-weight: bolder;
-  margin-top: .9em;
-  margin-left: .3em;
-  margin-bottom: .6em;
-  font-size: 1.5rem;
+}
+
+.link-card h2 {
+  background-color: #dcd4cd;
+  font-family: Dosis, sans-serif;
+  font-weight: bold;
 }
 
 p {
