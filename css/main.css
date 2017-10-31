@@ -24,7 +24,7 @@ body {
 }
 
 .link-card h2 {
-  background-color: #dcd4cd;
+  margin: 0;
   font-family: Dosis, sans-serif;
   font-weight: bold;
 }
