@@ -73,3 +73,14 @@ dd {
   margin: 0;
   padding: 1rem 0 .25rem;
 }
+
+.btn {
+  font-family: Dosis, sans-serif;
+  font-weight: bold;
+  font-size: 1.125rem;
+  display: inline-block;
+  background-color: #785439;
+  color: #fff;
+  padding: .5em .75em;
+  border-radius: 8px;
+}
