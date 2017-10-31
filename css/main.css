@@ -62,3 +62,14 @@ dd, dt {
 dt {
   width: 50%;
 }
+
+dd {
+  font-style: italic;
+  margin: 0;
+}
+
+.btn-wrap {
+  text-align: center;
+  margin: 0;
+  padding: 1rem 0 .25rem;
+}
